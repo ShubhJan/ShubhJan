@@ -32,7 +32,10 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhJan&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhJan" />
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShubhJan.ShubhJan)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShubhJan.ShubhJan) -->
 
 <!-- Adds running sentence -->
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
+
+![Visitor Count](https://profile-counter.glitch.me/{ShubhJan}/count.svg)
+
