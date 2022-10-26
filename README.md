@@ -10,6 +10,10 @@
 <!--About You  -->
 ✨I'm Shubham from India ✨
 
+My Holopin Badges😎 : 
+
+[![@shubhjan's Holopin board](https://holopin.me/shubhjan)](https://holopin.io/@shubhjan)
+
 <!-- Stats cards -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhJan&theme=midnight-purple&show_icons=true&title_color=fe428e)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
