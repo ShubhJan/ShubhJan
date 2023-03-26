@@ -41,5 +41,6 @@ My Holopin Badges😎 :
 <!-- Adds running sentence -->
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
 
-![Visitor Count](https://profile-counter.glitch.me/{ShubhJan}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{ShubhJan}/count.svg) -->
+![Visit counter](https://count.getloli.com/get/@:ShubhamShubhJanGitHub?theme=rule34)
 
