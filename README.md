@@ -28,8 +28,8 @@ My Holopin Badges😎 :
  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
  <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
 <img src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width='100'>
-
- 
+<img src="https://img.icons8.com/color/1x/java-coffee-cup-logo--v2.gif" width='100'>
+ <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" width = '100'>
  
  
  
@@ -42,5 +42,6 @@ My Holopin Badges😎 :
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{ShubhJan}/count.svg) -->
-![Visit counter](https://count.getloli.com/get/@:ShubhamShubhJanGitHub?theme=rule34)
+![Visit counter](https://count.getloli.com/get/@:ShubhamShubhJanGitHub?theme=rule34) <!--from lunarwatcher-->
+
 
