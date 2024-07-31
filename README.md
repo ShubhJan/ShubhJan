@@ -1,5 +1,5 @@
 <!-- Your greeting -->
-### Hi there 👋 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+### Hi there 👋
 <!-- github svg -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
