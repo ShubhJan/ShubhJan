@@ -12,7 +12,7 @@ My Holopin Badges😎 :
 [![@shubhjan's Holopin board](https://holopin.me/shubhjan)](https://holopin.io/@shubhjan)
 
 <!-- Stats cards -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhJan&theme=midnight-purple&show_icons=true&title_color=fe428e)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
  -->
  <h2> Github Stats </h2> 
@@ -39,6 +39,6 @@ My Holopin Badges😎 :
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{ShubhJan}/count.svg) -->
-![Visit counter](https://count.getloli.com/get/@:ShubhamShubhJanGitHub?theme=rule34) <!--from lunarwatcher-->
+<!--![Visit counter](https://count.getloli.com/get/@:ShubhamShubhJanGitHub?theme=rule34) <!--from lunarwatcher--> -->
 
 
